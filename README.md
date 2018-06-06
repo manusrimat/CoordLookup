@@ -10,4 +10,5 @@ python localCoord.py
 How it works :
 
 Looks up ip address from http://checkip.dyndns.org
+
 Uses ipapi API to find cooridnates of location
